@@ -6,8 +6,8 @@
     "repo": "https://github.com/iphantom/X",
     "apps": [
         {
-            "id": "yuheng.mi.step",
-            "name": "小米刷步",
+            "id": "iphantom.mi.step",
+            "name": "小米刷步iphantom",
             "descs_html": [
                 "<em>一次BoxJS持久化的尝试</em>",
                 "<ol><li>每天刷一刷</li><li>健康第一</li><li>步数第二</li></ol>",
@@ -61,8 +61,8 @@
             "script": "https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/mi/step.js"
         },
         {
-            "id": "yuheng.imaotai",
-            "name": "i茅台预约",
+            "id": "iphantom.imaotai",
+            "name": "i茅台预约iphantom",
             "descs_html": [
                 "留空"
             ],
